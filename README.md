@@ -4,7 +4,7 @@
 
 This repository contains the source code and documentation for my final year project, an Arduino-based training kit designed to introduce beginners to the world of microcontrollers and embedded systems programming.
 
-*link to a sample picture of arduino-based  training kit* https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kzmekatronik.com%2Fupload%2Fproduct%2FAr-01_1.jpg&tbnid=fA8wW1OJDMsSFM&vet=12ahUKEwjEhN-1n9aEAxWwZaQEHbJzD9IQMygHegQIARBj..i&imgrefurl=https%3A%2F%2Fwww.kzmekatronik.com%2Fen%2Fproduct%2Farduino-raspberry-pi-training-set-252&docid=Lr9GGzwjjMzZSM&w=1024&h=768&q=arduino-based%20training%20kit&ved=2ahUKEwjEhN-1n9aEAxWwZaQEHbJzD9IQMygHegQIARBj
+*link to a sample picture of an arduino-based  training kit* https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kzmekatronik.com%2Fupload%2Fproduct%2FAr-01_1.jpg&tbnid=fA8wW1OJDMsSFM&vet=12ahUKEwjEhN-1n9aEAxWwZaQEHbJzD9IQMygHegQIARBj..i&imgrefurl=https%3A%2F%2Fwww.kzmekatronik.com%2Fen%2Fproduct%2Farduino-raspberry-pi-training-set-252&docid=Lr9GGzwjjMzZSM&w=1024&h=768&q=arduino-based%20training%20kit&ved=2ahUKEwjEhN-1n9aEAxWwZaQEHbJzD9IQMygHegQIARBj
 
 ## Project Description
 
@@ -31,7 +31,9 @@ If you wish to contribute to this project, please feel free to reach me via emai
 
 ## Code
 The code written in this poject is a functional test for the Arduino-based training kit's capability to perform LED light pattern sequences triggered by pressing one of the push buttons. It verifies that the system responds correctly to user input by initiating a specific LED sequence when a push button is pressed and displaying the name of the sequence on an LCD display.
-Several other functions can as well be carried out making use of one or more of the sensors being connected to the arduino board.
+Several other functions can as well be carried out making use of one or more of the sensors and components being connected to the arduino board.
+Starts by confugring the push buttons connected to the arduino board.
+The light sequence code is written using simple if else codes along with including a delay sequence to make the light movement apparent. 
 
 
 
